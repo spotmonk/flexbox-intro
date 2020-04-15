@@ -56,3 +56,14 @@ footer {
   height: 200px;
   margin: 50px;
 }
+
+.domesticated {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.domesticated img{
+  height: 200px;
+  margin: 50px;
+}
