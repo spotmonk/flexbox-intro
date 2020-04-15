@@ -45,3 +45,14 @@ footer {
   left: 0px;
   bottom: 0px;
 }
+
+.wilds {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.wilds img{
+  height: 200px;
+  margin: 50px;
+}
